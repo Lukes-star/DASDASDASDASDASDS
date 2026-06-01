@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://servisfarovacaki.vercel.app/sitemap.xml
+
+# Servis Farova Caki - Loznica, Srbija
